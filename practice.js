@@ -14,6 +14,7 @@ let myAge = 27;
 
 //Create a variable called lovesCode that is a boolean data type
 
+let myName = Alba;
 let lovesCode = 10;
 
 if (lovesCode > 5 && lovesCode < 20) {
@@ -29,7 +30,7 @@ let greatestFear;
 
 //Create a variable called devMountainGoal that is null because we are just starting out
 
-let devMountainGoal = null; 
+let devMountainGoal = null;
 
 //////////////////PROBLEM 6////////////////////
 
