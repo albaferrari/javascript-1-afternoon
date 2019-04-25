@@ -40,6 +40,7 @@ let devMountainGoal = null;
 
 function greetings (name) {
   console.log("Hello, " + name);
+  return;
   }
 
   greetings(myName);
