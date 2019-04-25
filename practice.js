@@ -42,7 +42,7 @@ function greetings (name) {
   console.log("Hello, " + name);
   }
 
-  greetings("Alba");
+  greetings(myName);
 
 //////////////////PROBLEM 7////////////////////
 
