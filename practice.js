@@ -8,13 +8,17 @@ let myName = "Alba";
 
 //Create a variable called myAge that is a number data type
 
-//Code here
+let myAge = 27;
 
 //////////////////PROBLEM 3////////////////////
 
 //Create a variable called lovesCode that is a boolean data type
 
-//Code here
+let lovesCode = 10;
+
+if (lovesCode > 6 && lovesCode < 20;) {
+  console.log("loves-Code");
+}
 
 //////////////////PROBLEM 4////////////////////
 
