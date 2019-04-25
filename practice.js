@@ -38,7 +38,11 @@ let devMountainGoal = null;
 //greeting should return the string "Hello, "
 //plus the value of the name parameter.
 
-//Code here
+function greetings (name) {
+  console.log("Hello, " + name);
+  }
+
+  greetings("Alba");
 
 //////////////////PROBLEM 7////////////////////
 
