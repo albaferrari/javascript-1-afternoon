@@ -14,7 +14,6 @@ let myAge = 27;
 
 //Create a variable called lovesCode that is a boolean data type
 
-let myName = Alba;
 let lovesCode = 10;
 
 if (lovesCode > 5 && lovesCode < 20) {
