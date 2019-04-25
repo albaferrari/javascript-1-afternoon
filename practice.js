@@ -16,10 +16,9 @@ let myAge = 27;
 
 let lovesCode = 10;
 
-if (lovesCode > 6 && lovesCode < 20;) {
+if (lovesCode > 5 && lovesCode < 20) {
   console.log("loves-Code");
 }
-
 //////////////////PROBLEM 4////////////////////
 
 //Create a variable called greatestFear that is undefined because we fear nothing
