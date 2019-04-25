@@ -23,13 +23,13 @@ if (lovesCode > 5 && lovesCode < 20) {
 
 //Create a variable called greatestFear that is undefined because we fear nothing
 
-//Code here
+let greatestFear;
 
 //////////////////PROBLEM 5////////////////////
 
 //Create a variable called devMountainGoal that is null because we are just starting out
 
-//Code here
+let devMountainGoal = null; 
 
 //////////////////PROBLEM 6////////////////////
 
