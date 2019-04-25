@@ -14,7 +14,7 @@ let myAge = 27;
 
 //Create a variable called lovesCode that is a boolean data type
 
-let lovesCode = 10;
+let lovesCode = true;
 
 if (lovesCode > 5 && lovesCode < 20) {
   console.log("loves-Code");
@@ -38,41 +38,49 @@ let devMountainGoal = null;
 //greeting should return the string "Hello, "
 //plus the value of the name parameter.
 
-let myName = "Alba";
+//let myName = "Alba";
 
-function greetings (name) {
-  return ("Hello, " + name);
-  }
-
-  greetings(myName);
+function greeting(name) {
+return("Hello, " + name);
+}
+greeting ("Alba")
 
 //////////////////PROBLEM 7////////////////////
 
 //Rewrite the function greeting as a function expression.
 //Name it newGreeting.
 
-//Code Here
+var newGreeting = function(name) {
+  return("Hello, " + name);
+}
+greeting ("Alba")
 
 //////////////////PROBLEM 8////////////////////
 
 //Create an array called groceries with the values
 //"apples", "milk", "eggs", "bread"
 
-//Code Here
+let groceries = ["apples", "milk", "eggs", "bread"];
 
 //////////////////PROBLEM 9////////////////////
-
 //Create an object saved to the variable dog.
 //The dog object should have the following properties:
 //name (a string), color (a string), age (a number),
 //and goodBoy (a boolean).
 
-//Code Here
+let dog = {
+
+name: "Frank",
+color: "brown",
+age: 1,
+goodBoy: true
+
+}
 
 //...access the dog's name from the object and assign it to a
 //variable called devMountainClassPet.
 
-//Code Here
+let devMountainClassPet =  dog.name;
 
 //////////////////PROBLEM 10////////////////////
 
